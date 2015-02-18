@@ -1,0 +1,12 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+#wip {
+  font-size: 108px;
+  text-align: center;
+}
+
+.pagination {
+  display: none;
+}
