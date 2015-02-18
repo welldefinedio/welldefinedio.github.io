@@ -1,0 +1,19 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            welldefined.io
+tagline:          
+url:              http://welldefined.io
+paginate:         1
+baseurl:          /
+author:
+  name:           welldefined.io
+  url:            https://twitter.com/welldefinedio
+  email:          admin@welldefined.io
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/welldefinedio/welldefinedio.github.io
